@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Light",
+  "description": "A high-contrast, utility-first video platform UI with minimal chrome, strong brand accents, and dense navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
